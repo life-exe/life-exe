@@ -22,11 +22,11 @@
 ### 🚀 About Me
 
 - 🎮 **20+ years of software engineering experience**, with 10+ years dedicated to **C++** and **Unreal Engine**
-- 🧠 Interests include game development, modern C++, computer vision, DevOps, tracking systems, procedural graphics, and VR/XR/AR
+- 🧠 Interests include game development, modern C++, computer vision, DevOps, procedural graphics, and VR/XR/AR
 - 🎓 Founder of [**life-exe.com**](https://life-exe.com) — educational platform, open-source projects, and gamedev community hub
-- 💻 Creator of [**UE-PRO.COM**](https://ue-pro.com) — in-depth professional training programs covering Unreal Engine architecture, modern C++, automation testing, and production pipelines
+- 💻 Creator of architecture course [**UNREAL ENGINE C++ PRO — Game Systems Design**](https://ue-pro.com) — in-depth professional course covering Unreal Engine architecture, modern C++, patterns, SOLID, automation testing, and production pipelines
 - 📚 I am instructor of the Udemy course [**Unreal Engine — The Ultimate Guide to C++ Development**](https://www.udemy.com/course/unrealengine/?referralCode=1DEBE7F013238C387B46)
-- 🤖 Enthusiastic about integrating LLMs / AI agents into game engines and developer toolchains
+- 🤖 Enthusiastic about integrating LLMs / AI agents into developer toolchains
 
 ---
 
