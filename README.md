@@ -41,20 +41,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"/>
 </p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stars |
-| :--- | :--- | :---: |
-| [**UnrealOpenAIPlugin**](https://github.com/life-exe/UnrealOpenAIPlugin) | Full-featured OpenAI API integration (ChatGPT, DALL-E, Audio) for Unreal Engine in C++ | ⭐ 180+ |
-| [**GeometrySandbox**](https://github.com/life-exe/GeometrySandbox) | Procedural geometry, meshes, and algorithms implemented in Unreal Engine | ⭐ 95+ |
-| [**devops_ue**](https://github.com/life-exe/devops_ue) | CI/CD build automation pipelines and developer workflows for Unreal Engine projects | ⭐ 80+ |
-| [**wiki-engine**](https://github.com/life-exe/wiki-engine) | Modern, fast, multilingual documentation and wiki engine built with React + Vite | [![npm](https://img.shields.io/npm/v/@life-exe/wiki-engine?color=F04104&label=npm)](https://www.npmjs.com/package/@life-exe/wiki-engine) |
-
----
-
-<div align="center">
-  <sub>All rights reserved, all commits pushed © LifeEXE</sub>
-</div>
